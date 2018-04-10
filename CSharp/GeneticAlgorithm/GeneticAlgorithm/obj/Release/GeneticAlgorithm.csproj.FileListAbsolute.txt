@@ -1,0 +1,13 @@
+D:\CsharpProjects\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.exe.config
+D:\CsharpProjects\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.exe
+D:\CsharpProjects\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.pdb
+D:\CsharpProjects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.exe
+D:\CsharpProjects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.pdb
+D:\CsharpProjects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\ketov_000\Desktop\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.exe.config
+C:\Users\ketov_000\Desktop\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.exe
+C:\Users\ketov_000\Desktop\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.pdb
+C:\Users\ketov_000\Desktop\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.exe
+C:\Users\ketov_000\Desktop\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.pdb
+C:\Users\ketov_000\Desktop\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.csprojResolveAssemblyReference.cache
